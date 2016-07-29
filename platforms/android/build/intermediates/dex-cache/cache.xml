@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2e5203427159d06a7104c1a113eee1c22e0ceb9">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_1e53ffa1913f19dd37708b8acf095ec76d5a2567.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/GrataMobile/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8c8ebc987f6538a65f5cfd308d5984746999d79">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/GrataMobile-runtime-unspecified_166b1a88710a4db288ae5c2e8b36ab133da44b15.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_68979bb0f5569c0b6fa7ae4eb8a9a5577058d597.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_81af9fc095b40431e9a29e9208612596d0eaa161.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_a11f1fdb6e80cf86311d956e980b7a7e72dc8b6b.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_b769c4c97708c44b117540781cea4c290acca37d.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_204b91e6c0ce46d4c0523018083677065fa3a68e.jar" />
+    </item>
+    <item
+        jar="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/exploded-aar/GrataMobile/binding-generator/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd7dd3d8b3faa7a457003b040d45b12c7e268dc6">
+        <dex dex="/Users/Shokparbayev/Documents/work/GrataMobile/platforms/android/build/intermediates/pre-dexed/F0/debug/GrataMobile-binding-generator-unspecified_399834fd1dfc8a78139a63e7b1e4ac6a96b651c2.jar" />
+    </item>
+
+</items>
